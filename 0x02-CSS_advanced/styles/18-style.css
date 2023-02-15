@@ -130,7 +130,7 @@ a:active{
     padding: var(--footer-padding);
 }
 
-.nav-menu{
+.nav .nav-menu{
     float: right;
 }
 
